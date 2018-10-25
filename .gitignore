@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/MVP_Kotlin/out/
+/MVP_Kotlin/.idea/
